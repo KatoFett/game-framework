@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32825.248
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Solitaire", "Solitaire.csproj", "{23DCE436-AE54-48EF-BD59-26E64D3C9400}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Game Framework", "Game Framework.csproj", "{23DCE436-AE54-48EF-BD59-26E64D3C9400}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
